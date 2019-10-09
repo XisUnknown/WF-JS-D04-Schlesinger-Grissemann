@@ -1,0 +1,45 @@
+
+       'books' = [{"title":"Lord of the Rings",
+                "author": "J.R.R. Tolkien",
+                "read": "true"
+            }, {
+                "title":"The Hobbit",
+                "author": "J.R.R. Tolkien",
+                "read": "true"
+            },{
+                "title":"Hear the Wind Sing",
+                "author": "Haruki Murakami",
+                "read": "true"
+            },{
+                "title":"Infinite Jest",
+                "author": "David Foster Wallece",
+                "read": "false"
+            },{
+                "title":"Wild Sheep Chase",
+                "author": "Haruki Murakami",
+                "read": "true"
+            },{
+                "title":"Harry Potter",
+                "author": "J.K. Rowling",
+                "read": "false"
+            },{
+                "title":"Catcher in the Rye",
+                "author": "J. D. Salinger",
+                "read": "false"
+            },{
+                "title":"The Grat Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "read": "false"
+            },{
+                "title":"Pride and Prejudice",
+                "author": "Jane Austin",
+                "read": "false"
+            },{
+                "title":"Animal Farm",
+                "author": "George Orwell",
+                "read": "true"
+            },{
+                "title":"Adventures of Huckleberry Finn",
+                "author": "Mark Twain",
+                "read": "false"
+            }]
