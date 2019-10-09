@@ -1,0 +1,9 @@
+.main {
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;    
+}
+img {
+    width: 15vw;
+}
