@@ -1,5 +1,4 @@
-
-       'books' = [{"title":"Lord of the Rings",
+books = [{"title":"Lord of the Rings",
                 "author": "J.R.R. Tolkien",
                 "read": "true"
             }, {
